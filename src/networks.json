@@ -412,6 +412,16 @@
     "rpc": ["https://babel-api.testnet.iotex.io"],
     "explorer": "https://testnet.iotexscan.io"
   },
+  "10946": {
+    "key": "10946",
+    "name": "Quadrans Mainnet",
+    "shortName": "Quadrans",
+    "chainId": 10946,
+    "network": "mainnet",
+    "multicall": "",
+    "rpc": ["https://rpc.quadrans.io"],
+    "explorer": "https://explorer.quadrans.io/"
+  },
   "1666600000": {
     "key": "1666600000",
     "name": "Harmony Mainnet",
